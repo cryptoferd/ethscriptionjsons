@@ -21,7 +21,7 @@
                   "value": "OG Gray",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -39,7 +39,7 @@
                   "value": "BlackRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -57,7 +57,7 @@
                   "value": "RedRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -75,7 +75,7 @@
                   "value": "GreenRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -93,7 +93,7 @@
                   "value": "BlueRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -111,7 +111,7 @@
                   "value": "PurpRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -129,7 +129,7 @@
                   "value": "YellowRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -147,7 +147,7 @@
                   "value": "OrangeRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -165,7 +165,7 @@
                   "value": "TealRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -183,7 +183,7 @@
                   "value": "GoldRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -201,7 +201,7 @@
                   "value": "LimeRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -219,7 +219,7 @@
                   "value": "BrownRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -237,7 +237,7 @@
                   "value": "LavenderRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -255,7 +255,7 @@
                   "value": "DanubeRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -273,7 +273,7 @@
                   "value": "MerlotRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -291,7 +291,7 @@
                   "value": "OrientRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -309,7 +309,7 @@
                   "value": "PinkRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -327,7 +327,7 @@
                   "value": "CobaltRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -345,7 +345,7 @@
                   "value": "MidnightBlueRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -363,7 +363,7 @@
                   "value": "DarkGrayRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -381,7 +381,7 @@
                   "value": "FleshRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -399,7 +399,7 @@
                   "value": "BubbleGumRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -417,7 +417,7 @@
                   "value": "DeepSeaRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -435,7 +435,7 @@
                   "value": "MintRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -453,7 +453,7 @@
                   "value": "ForestGreenRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -471,7 +471,7 @@
                   "value": "CabernetSauvignonRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -489,7 +489,7 @@
                   "value": "WhiteRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -507,7 +507,7 @@
                   "value": "PlumRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -525,7 +525,7 @@
                   "value": "FlameRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -543,7 +543,7 @@
                   "value": "CowRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -561,7 +561,7 @@
                   "value": "LeopardRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
@@ -579,7 +579,7 @@
                   "value": "RainbowRock",
                   "trait_type": "Color"
                 }
-                {
+                ,{
                   "value": "ChainRocks",
                   "trait_type": "collection"
                 }
